@@ -41,7 +41,7 @@ Esse projeto foi desenvolvido para estudo, e usei as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/MatheusINFO/GitExplorer.git
+$ git clone https://github.com/MatheusINFO/git-explorer.git
 
 # Ir dentro do repositório clonado
 $ cd GitExplorer
